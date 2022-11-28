@@ -1,0 +1,112 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+11477,,11477,"Slope, Curved 2 x 1 x 2/3",9,7,Light Gray,Solid Colors,2,0.31
+11477,6034044,11477,"Slope, Curved 2 x 1 x 2/3",1,15,White,Solid Colors,4,0.31
+13965,,13965,Arch 1 x 3 x 3,9,7,Light Gray,Solid Colors,4,1.51
+14769,6070695,14769,"Tile, Round 2 x 2 with Bottom Stud Holder",11,0,Black,Solid Colors,2,0.33
+1748,,1748,"Tile, Round 1 x 2 Half",1,15,White,Solid Colors,2,0.21
+18653,,18653,Arch 1 x 3 x 2 Inverted,9,7,Light Gray,Solid Colors,2,1.2
+22885,,22885,"Brick, Modified 1 x 2 x 1 2/3 with Studs on Side",11,0,Black,Solid Colors,8,1.25
+2341,,2341,"Slope, Inverted 45 3 x 1 Double",9,7,Light Gray,Solid Colors,4,0.96
+2357,235702,2357,Brick 2 x 2 Corner,9,7,Light Gray,Solid Colors,12,1.25
+24201,,24201,"Slope, Curved 2 x 1 x 2/3 Inverted",9,7,Light Gray,Solid Colors,2,0.36
+2431,243101,2431,Tile 1 x 4,1,15,White,Solid Colors,2,0.54
+2431,243126,2431,Tile 1 x 4,11,0,Black,Solid Colors,7,0.54
+2456,4210875,2456,Brick 2 x 6,85,72,Dark Bluish Gray,Solid Colors,32,3.74
+2456,4181144,2456,Brick 2 x 6,11,0,Black,Solid Colors,7,3.74
+2456,4181137,2456,Brick 2 x 6,9,7,Light Gray,Solid Colors,170,3.74
+2458,4160228,2458,"Brick, Modified 1 x 2 with Pin",1,15,White,Solid Colors,6,1.09
+26603,,26603,Tile 2 x 3,9,7,Light Gray,Solid Colors,2,0.68
+27925,6172674,27925,"Tile, Round Corner 2 x 2 Macaroni",1,15,White,Solid Colors,4,0.3
+27925,6310198,27925,"Tile, Round Corner 2 x 2 Macaroni",5,4,Red,Solid Colors,8,0
+28192,,28192,Slope 45 2 x 1 with Cutout without Stud,9,7,Light Gray,Solid Colors,6,0.41
+3001,4211085,3001,Brick 2 x 4,85,72,Dark Bluish Gray,Solid Colors,2,2.32
+3001,300126,3001,Brick 2 x 4,11,0,Black,Solid Colors,43,2.32
+3001,300102,3001,Brick 2 x 4,9,7,Light Gray,Solid Colors,49,2.32
+3002,300202,3002,Brick 2 x 3,9,7,Light Gray,Solid Colors,4,1.92
+3002,4211105,3002,Brick 2 x 3,85,72,Dark Bluish Gray,Solid Colors,6,1.92
+3003,300326,3003,Brick 2 x 2,11,0,Black,Solid Colors,3,1.35
+3003,4211060,3003,Brick 2 x 2,85,72,Dark Bluish Gray,Solid Colors,148,1.35
+3003,300302,3003,Brick 2 x 2,9,7,Light Gray,Solid Colors,2,1.35
+3004,300426,3004,Brick 1 x 2,11,0,Black,Solid Colors,4,0.8
+3004,300421,3004,Brick 1 x 2,5,4,Red,Solid Colors,49,0.8
+3004,300402,3004,Brick 1 x 2,9,7,Light Gray,Solid Colors,40,0.8
+3004,4211088,3004,Brick 1 x 2,85,72,Dark Bluish Gray,Solid Colors,18,0.8
+3004,300401,3004,Brick 1 x 2,1,15,White,Solid Colors,10,0.8
+3005,300526,3005,Brick 1 x 1,11,0,Black,Solid Colors,62,0.44
+3005,4211098,3005,Brick 1 x 1,85,72,Dark Bluish Gray,Solid Colors,2,0.44
+3005,6022084,3005,Brick 1 x 1,103,226,Bright Light Yellow,Solid Colors,26,0.44
+3005,300501,3005,Brick 1 x 1,1,15,White,Solid Colors,20,0.44
+3005,300502,3005,Brick 1 x 1,9,7,Light Gray,Solid Colors,10,0.44
+3007,,3007,Brick 2 x 8,150,84,Medium Nougat,Solid Colors,14,4.75
+3008,300821,3008,Brick 1 x 8,5,4,Red,Solid Colors,3,3.21
+3009,300921,3009,Brick 1 x 6,5,4,Red,Solid Colors,1,2.42
+3009,300902,3009,Brick 1 x 6,9,7,Light Gray,Solid Colors,5,2.42
+3010,301002,3010,Brick 1 x 4,9,7,Light Gray,Solid Colors,5,1.64
+3010,301021,3010,Brick 1 x 4,5,4,Red,Solid Colors,1,1.64
+3010,4211103,3010,Brick 1 x 4,85,72,Dark Bluish Gray,Solid Colors,4,1.64
+3020,302002,3020,Plate 2 x 4,9,7,Light Gray,Solid Colors,4,1.2
+3020,302026,3020,Plate 2 x 4,11,0,Black,Solid Colors,13,1.2
+3020,302001,3020,Plate 2 x 4,1,15,White,Solid Colors,2,1.2
+3021,302102,3021,Plate 2 x 3,9,7,Light Gray,Solid Colors,17,0.93
+3021,302126,3021,Plate 2 x 3,11,0,Black,Solid Colors,2,0.93
+3022,302202,3022,Plate 2 x 2,9,7,Light Gray,Solid Colors,6,0.64
+3023,302326,3023,Plate 1 x 2,11,0,Black,Solid Colors,23,0.36
+3023,302302,3023,Plate 1 x 2,9,7,Light Gray,Solid Colors,4,0.36
+3023old,,3023old,Plate 1 x 2 with Bottom Pin,1,15,White,Solid Colors,4,0.4
+3023old,,3023old,Plate 1 x 2 with Bottom Pin,9,7,Light Gray,Solid Colors,6,0.4
+3024,302401,3024,Plate 1 x 1,1,15,White,Solid Colors,4,0.2
+3024,302402,3024,Plate 1 x 1,9,7,Light Gray,Solid Colors,12,0.2
+3024,302426,3024,Plate 1 x 1,11,0,Black,Solid Colors,34,0.2
+3024,302421,3024,Plate 1 x 1,5,4,Red,Solid Colors,2,0.2
+30283,4118776,30283,"Slope, Inverted 45 6 x 4 Double with 4 x 4 Cutout",9,7,Light Gray,Solid Colors,3,4.81
+3030,303002,3030,Plate 4 x 10,9,7,Light Gray,Solid Colors,1,5.55
+3033,303302,3033,Plate 6 x 10,9,7,Light Gray,Solid Colors,2,7.95
+3036,303626,3036,Plate 6 x 8,11,0,Black,Solid Colors,2,6.4
+3038,4173255,3038,Slope 45 2 x 3,9,7,Light Gray,Solid Colors,8,1.72
+3039,303902,3039,Slope 45 2 x 2,9,7,Light Gray,Solid Colors,104,1.15
+3040a,,3040a,Slope 45 2 x 1 without Bottom Tube,9,7,Light Gray,Solid Colors,24,0.64
+3040,4121933,3040,Slope 45 2 x 1,9,7,Light Gray,Solid Colors,20,0.69
+3067,,3067,Brick 1 x 6 without Bottom Tubes,85,72,Dark Bluish Gray,Solid Colors,8,2.5
+3067,,3067,Brick 1 x 6 without Bottom Tubes,9,7,Light Gray,Solid Colors,13,2.5
+3069b,306902,3069b,Tile 1 x 2 with Groove,9,7,Light Gray,Solid Colors,12,0.26
+3069b,306901,3069b,Tile 1 x 2 with Groove,1,15,White,Solid Colors,2,0.26
+3069b,306926,3069b,Tile 1 x 2 with Groove,11,0,Black,Solid Colors,4,0.26
+3070b,307001,3070b,Tile 1 x 1 with Groove,1,15,White,Solid Colors,4,0.16
+3070b,,3070b,Tile 1 x 1 with Groove,9,7,Light Gray,Solid Colors,4,0.16
+32952,6228987,32952,"Brick, Modified 1 x 1 x 1 2/3 with Studs on Side",11,0,Black,Solid Colors,6,0.7
+3298,329802,3298,Slope 33 3 x 2,9,7,Light Gray,Solid Colors,36,1.27
+3622,362202,3622,Brick 1 x 3,9,7,Light Gray,Solid Colors,158,1.24
+3622,362221,3622,Brick 1 x 3,5,4,Red,Solid Colors,4,1.24
+3622,4211104,3622,Brick 1 x 3,85,72,Dark Bluish Gray,Solid Colors,40,1.24
+3622,362201,3622,Brick 1 x 3,1,15,White,Solid Colors,4,1.24
+3623,362302,3623,Plate 1 x 3,9,7,Light Gray,Solid Colors,6,0.53
+3623,362301,3623,Plate 1 x 3,1,15,White,Solid Colors,14,0.53
+3660,366002,3660,"Slope, Inverted 45 2 x 2 with Flat Bottom Pin",9,7,Light Gray,Solid Colors,102,1.25
+3665,366502,3665,"Slope, Inverted 45 2 x 1",9,7,Light Gray,Solid Colors,68,0.66
+3666,366602,3666,Plate 1 x 6,9,7,Light Gray,Solid Colors,6,1.06
+3666,366626,3666,Plate 1 x 6,11,0,Black,Solid Colors,2,1.06
+3710,371026,3710,Plate 1 x 4,11,0,Black,Solid Colors,8,0.71
+3710,371002,3710,Plate 1 x 4,9,7,Light Gray,Solid Colors,5,0.71
+3747b,,3747b,"Slope, Inverted 33 3 x 2 with Connections between Studs",9,7,Light Gray,Solid Colors,36,1.68
+3795,379526,3795,Plate 2 x 6,11,0,Black,Solid Colors,8,1.74
+3795,379502,3795,Plate 2 x 6,9,7,Light Gray,Solid Colors,2,1.74
+4162,416226,4162,Tile 1 x 8,11,0,Black,Solid Colors,1,1.06
+42023,4160404,42023,"Slope, Curved 6 x 1 Inverted",9,7,Light Gray,Solid Colors,2,1.92
+4286,428602,4286,Slope 33 3 x 1,9,7,Light Gray,Solid Colors,12,0.98
+4287,428702,4287,"Slope, Inverted 33 3 x 1",9,7,Light Gray,Solid Colors,14,0.94
+44865,,44865,"Brick, Modified 1 x 2 with Pin and Bottom Stud Holder",1,15,White,Solid Colors,6,0.96
+50950,4249112,50950,"Slope, Curved 3 x 1",1,15,White,Solid Colors,4,0.75
+54200,,54200,Slope 30 1 x 1 x 2/3,9,7,Light Gray,Solid Colors,8,0.21
+6005,,6005,Arch 1 x 3 x 2 Curved Top,9,7,Light Gray,Solid Colors,2,1
+60477,,60477,Slope 18 4 x 1,9,7,Light Gray,Solid Colors,2,1.1
+6112,,6112,Brick 1 x 12,9,7,Light Gray,Solid Colors,4,4.8
+61678,,61678,"Slope, Curved 4 x 1",9,7,Light Gray,Solid Colors,2,0.8
+63864,4558168,63864,Tile 1 x 3,1,15,White,Solid Colors,4,0.39
+6541,654126,6541,"Technic, Brick 1 x 1 with Hole",11,0,Black,Solid Colors,12,0.38
+6636,663626,6636,Tile 1 x 6,11,0,Black,Solid Colors,2,0.83
+70681,,70681,Arch 1 x 3 Inverted,9,7,Light Gray,Solid Colors,2,0.72
+crssprt01,,crssprt01,"Brick 1 x 8 without Bottom Tubes, with Cross Supports",5,4,Red,Solid Colors,2,3.11
+92946,,92946,Slope 45 2 x 1 with 2/3 Cutout,9,7,Light Gray,Solid Colors,4,0.42
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+1749,2543.9,,,,,,,,
